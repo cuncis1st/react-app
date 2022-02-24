@@ -1,4 +1,4 @@
-*  @cuncis
-*.js  @cuncis
-*.yml  @cuncis1st
-/public/  @cuncis
+*  @cuncis1st
+*.js  @cuncis1st
+*.yml  @cuncis
+/public/  @cuncis1st
